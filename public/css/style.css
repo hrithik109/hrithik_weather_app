@@ -12,7 +12,6 @@ body {
 .main-content {
     flex-grow: 1;
 }
-
 footer {
     color: #888888;
     border-top: 2px solid #eeeeee;
